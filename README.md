@@ -28,7 +28,7 @@ cd AIL303m
 ## 🔍 Testing
 
 1. **Download the Checkpoints**  
-  Download the checkpoints from [here](https://example.com) and create a new folder `checkpoints`.  
+  Download the checkpoints from [here](https://drive.google.com/drive/folders/15AbTw16w13dN1hY430flBZbe1EfumJT7) and create a new folder `checkpoints`.  
   The folder `checkpoints` should contain `warp_model_final.pth` and `gen_model_final.pth`.
 
 2. **Run the Test**  
